@@ -1,7 +1,7 @@
 name: Scott Pretty
 favicon: null
-layout_spectrum: 0.01886306586675346
-typography_spectrum: 0.8495408531744033
+layout_spectrum: 1
+typography_spectrum: 0.20673
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.5232454380020499
-  lightness: 0.3855957784689963
-  saturation: 0.024648688500747085
-  rhythmicContrast: 0.4080382252577692
+    - '#fbfbfb'
+    - '#23526e'
+    - '#100d06'
+    - '#d7b48e'
+    - '#99784f'
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
