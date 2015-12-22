@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Scott Pretty]]></title>
+        <description><![CDATA[Scott Pretty]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 22:15:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome To the Official Website for Actor Scott Pretty!</p>]]></description>
+            <link>undefined21208f2f-9410-4f69-92b6-3e9ea207b513/index.html</link>
+            <guid isPermaLink="false">21208f2f-9410-4f69-92b6-3e9ea207b513</guid>
+            <pubDate>Tue, 22 Dec 2015 22:15:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
