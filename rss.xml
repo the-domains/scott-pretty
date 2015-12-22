@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Scott Pretty]]></title>
         <description><![CDATA[Scott Pretty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scott-pretty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 22:15:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 22:22:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scott-pretty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome To the Official Website for Actor Scott Pretty!</p>]]></description>
-            <link>undefined21208f2f-9410-4f69-92b6-3e9ea207b513/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44735c83-43b8-42ac-bb99-e76fea39da10.jpg">]]></description>
+            <link>https://thegrid.ai/scott-pretty/21208f2f-9410-4f69-92b6-3e9ea207b513/index.html</link>
             <guid isPermaLink="false">21208f2f-9410-4f69-92b6-3e9ea207b513</guid>
-            <pubDate>Tue, 22 Dec 2015 22:15:12 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 22:22:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
