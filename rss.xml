@@ -4,8 +4,15 @@
         <description><![CDATA[Scott Pretty]]></description>
         <link>https://thegrid.ai/scott-pretty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 20:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 20:37:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scott-pretty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IMDB]]></title>
+            <description><![CDATA[<article><h1>IMDB</h1><p>IMDB Credits ---</p></article>]]></description>
+            <link>https://thegrid.ai/scott-pretty/imdb/index.html</link>
+            <guid isPermaLink="false">8f688ebd-d234-4903-a44e-017850c0d6c4</guid>
+            <pubDate>Thu, 31 Dec 2015 20:37:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bio]]></title>
             <description><![CDATA[<article><h1>Bio</h1><p>Scott Pretty is an American actor, born in Coon Rapids, MN.</p></article>]]></description>
