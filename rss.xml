@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Scott Pretty]]></title>
         <description><![CDATA[Scott Pretty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scott-pretty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 04:19:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 20:37:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scott-pretty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bio]]></title>
+            <description><![CDATA[<article><h1>Bio</h1><p>Scott Pretty is an American actor, born in Coon Rapids, MN.</p></article>]]></description>
+            <link>https://thegrid.ai/scott-pretty/bio/index.html</link>
+            <guid isPermaLink="false">de4d7e75-bb1d-4712-8164-6028fdaae27a</guid>
+            <pubDate>Thu, 31 Dec 2015 20:37:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b06830-eddc-4ff3-aa43-7f7b99276f74.jpg">]]></description>
-            <link>undefined674a9e3b-b80e-4d4a-9f8a-e06fd862fe7a/index.html</link>
+            <link>https://thegrid.ai/scott-pretty/674a9e3b-b80e-4d4a-9f8a-e06fd862fe7a/index.html</link>
             <guid isPermaLink="false">674a9e3b-b80e-4d4a-9f8a-e06fd862fe7a</guid>
             <pubDate>Wed, 23 Dec 2015 04:18:58 GMT</pubDate>
         </item>
