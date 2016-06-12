@@ -4,7 +4,7 @@
         <description><![CDATA[Scott Pretty]]></description>
         <link>https://thegrid.ai/scott-pretty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 00:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 00:26:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scott-pretty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/scott-pretty/~-scott-pretty-~/index.html</link>
             <guid isPermaLink="false">c8a6c814-98d4-48c6-bd40-88bbbebd954b</guid>
             <pubDate>Sun, 12 Jun 2016 00:26:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b06830-eddc-4ff3-aa43-7f7b99276f74.jpg">]]></description>
-            <link>https://thegrid.ai/scott-pretty/674a9e3b-b80e-4d4a-9f8a-e06fd862fe7a/index.html</link>
-            <guid isPermaLink="false">674a9e3b-b80e-4d4a-9f8a-e06fd862fe7a</guid>
-            <pubDate>Wed, 23 Dec 2015 04:18:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
