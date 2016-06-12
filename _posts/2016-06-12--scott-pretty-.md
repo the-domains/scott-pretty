@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ~ Scott Pretty ~
-datePublished: '2016-06-12T00:26:15.999Z'
-dateModified: '2016-06-12T00:26:13.589Z'
+datePublished: '2016-06-12T00:26:56.827Z'
+dateModified: '2016-06-12T00:26:24.036Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-12--scott-pretty-.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-12--scott-pretty-.md
 url: ~-scott-pretty-~/index.html
 _type: Article
 
